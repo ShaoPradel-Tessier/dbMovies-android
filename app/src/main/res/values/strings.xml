@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Films maison</string>
+
+    <string name="allMovies">Tous les films</string>
+    <string name="menuRecherche">Recherche film</string>
+    <string name="menuRechercheHint">Film</string>
+</resources>
