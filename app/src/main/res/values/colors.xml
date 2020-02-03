@@ -10,4 +10,5 @@
     <color name="colorAccent">#8cd7ff</color>
     <color name="colorAccentLight">#c0ffff</color>
     <color name="colorAccentDark">#58a6cc</color>
+    <color name="colorBlack">#000000</color>
 </resources>

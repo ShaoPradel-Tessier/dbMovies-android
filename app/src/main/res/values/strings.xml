@@ -4,4 +4,16 @@
     <string name="allMovies">Tous les films</string>
     <string name="menuRecherche">Recherche film</string>
     <string name="menuRechercheHint">Film</string>
+
+    <string name="add_name">Ajout d\'un film</string>
+    <string name="add_tech">Fiche technique</string>
+    <string name="add_title">Titre : </string>
+    <string name="add_title2">2e titre :</string>
+    <string name="add_input_original_title">Titre original du film</string>
+    <string name="add_input_title">Titre du film</string>
+    <string name="add_director">Réalisateur :</string>
+    <string name="add_input_director">Nom du réalisateur</string>
+    <string name="add_releaseDate">Date de sortie: </string>
+    <string name="add_inputReleaseDate">Date de sortie du film</string>
+    <string name="add_"></string>
 </resources>
